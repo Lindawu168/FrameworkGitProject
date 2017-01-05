@@ -7,7 +7,7 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import functionDriven.ReusableBusinessFunctions;
-//Test framework sample
+//Test framework sample. This project is sent to GitHub
 public class SanityTestSuite {
 	WebDriver driver;
 	ReusableBusinessFunctions func;
